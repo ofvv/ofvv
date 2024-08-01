@@ -23,7 +23,7 @@
 
 ### Connect
 - Discord: @v.vv
-- Email: zirocore@keemail.me
+- Email my Manager: zirocore@keemail.me
 
 ### Work
 - All of my Repositories
